@@ -1,0 +1,1 @@
+A Faster RCNN model to identify and locate HII regions within infrared astronomical images from the WISE database. More info: [slides](https://docs.google.com/presentation/d/13ZhWX_BPt4pynSYXCofVaXxv3_nWxqJjORHvmsFuXwI/edit?usp=sharing) 
